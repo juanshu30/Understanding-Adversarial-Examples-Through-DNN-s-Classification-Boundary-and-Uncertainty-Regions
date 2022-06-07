@@ -1,4 +1,4 @@
-# Understanding-Adversarial-Examples-Through-DNN-s-Classification-Boundary-and-Uncertainty-Regions
+# Understanding-Adversarial-Examples-Through-DNNs-Classification-Boundary-and-Uncertainty-Regions
 
 The paper is submitted to SafetyAI 2022.
 
